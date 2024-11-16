@@ -23,3 +23,4 @@
 * **PowerTools**
   * [Windows PowerTools](https://github.com/Aptivi-WPT)
   * **Linux PowerTools**
+* [Assorted](https://github.com/Aptivi-Assorted)
